@@ -1,2 +1,3 @@
-# -
-前端数据可视化
+```sh
+npm install ts-node -g
+```
